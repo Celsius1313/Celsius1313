@@ -11,7 +11,7 @@
 
 🔭  [JESSE - Comercial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU0NjM1ZmMtYjQ3MS00YzU0LTk4MzItNDdlOGQ2MGVkNGI4IiwidCI6IjJjMGE3OThiLWIxYWEtNDdkYy04ZjlhLTM2ZTllNGQ0ZDc2NiJ9)
 
-📝 I regularly write articles on **linkedin.com/in/celsio-willian-8142861b5**
+📝 I regularly write articles post tutorials on **linkedin.com/in/celsio-willian-8142861b5**
 
 💬 Ask me about **DAX, M language, SQL, MS FABRIC, Python**
 
