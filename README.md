@@ -1,4 +1,4 @@
-### Hi 👋, I'm Senior Data Analyst | Data Analysis and Visualization Trainer | BI Consultant 
+### Hi 👋, I'm Data Analyst | Data Analysis and Visualization Trainer | BI Consultant 
 *Developed Dashbords:*
 
 🔭  [HR - 360º HR](https://app.powerbi.com/view?r=eyJrIjoiYzVlNmUzOGItNzQwMy00ZWRlLTk3MTctMGZlNDE3YTI3MGU2IiwidCI6IjJjMGE3OThiLWIxYWEtNDdkYy04ZjlhLTM2ZTllNGQ0ZDc2NiJ9)
