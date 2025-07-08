@@ -1,5 +1,6 @@
 ### Hi 👋, I'm Senior Data Analyst | Data Analysis and Visualization Trainer | BI Consultant 
-Developed Dashbords
+*Developed Dashbords:*
+
 🔭  [HR - 360º HR](https://app.powerbi.com/view?r=eyJrIjoiYzVlNmUzOGItNzQwMy00ZWRlLTk3MTctMGZlNDE3YTI3MGU2IiwidCI6IjJjMGE3OThiLWIxYWEtNDdkYy04ZjlhLTM2ZTllNGQ0ZDc2NiJ9)
 
 🔭  [BANK - CVP MATRIX](https://app.powerbi.com/view?r=eyJrIjoiZTAxMWM0ZTEtZjUzMS00ZWUzLWI0OGQtZjJiMjI3ZTQ0YzI2IiwidCI6IjJjMGE3OThiLWIxYWEtNDdkYy04ZjlhLTM2ZTllNGQ0ZDc2NiJ9)
@@ -10,7 +11,7 @@ Developed Dashbords
 
 🔭  [JESSE - Comercial Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzU0NjM1ZmMtYjQ3MS00YzU0LTk4MzItNDdlOGQ2MGVkNGI4IiwidCI6IjJjMGE3OThiLWIxYWEtNDdkYy04ZjlhLTM2ZTllNGQ0ZDc2NiJ9)
 
-📝 I regularly write articles on linkedin.com/in/celsio-willian-8142861b5
+📝 I regularly write articles on **linkedin.com/in/celsio-willian-8142861b5**
 
 💬 Ask me about **DAX, M language, SQL, MS FABRIC, Python**
 
@@ -18,10 +19,8 @@ Developed Dashbords
 
 📱 How to reach me with a phone call **927300090**
 
-Connect with me:
-
-Languages and Tools:
-bash linux mysql oracle python
+Languages and Working Tools:
+*bash*, *linux*, *sql*, *oracle*, *python*
 
 <!--
 **Celsius1313/Celsius1313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
